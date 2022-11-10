@@ -10,7 +10,7 @@ x2 = float(input('X: '))
 
 y2 = float(input('Y: '))
 
-
+print()
 
 abs(x_diff) = x1 - x2
 
